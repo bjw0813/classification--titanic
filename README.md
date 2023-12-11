@@ -1,4 +1,4 @@
-# kaggle--titanic
+# titanic (KAGGLE)
 AUTOML(pycaret) 활용해보기 
 
 
